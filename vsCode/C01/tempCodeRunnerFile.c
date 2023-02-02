@@ -1,0 +1,1 @@
+printf("바꾼 후 %d\n", tab[i]);	
